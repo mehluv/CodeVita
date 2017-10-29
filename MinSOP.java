@@ -7,6 +7,7 @@ public class MinSOP
     public static void main(String[] args) throws Exception
     {
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	//But necessary
 	String[] sa = br.readLine().split(" ");
 	int n = Integer.parseInt(sa[0]);
 	int k = Integer.parseInt(sa[1]);
