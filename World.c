@@ -47,6 +47,7 @@ set* un(set* a, set* b)
 	while(t!=NULL)
 	{
 //		printf("changing %d's rep to %d",t->index,a->start->index);
+//	 	Abbey ye comment dekar kya tel lega
 		t->rep=a;
 		t=t->next;
 	}
