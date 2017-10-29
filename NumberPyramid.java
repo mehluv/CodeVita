@@ -6,7 +6,7 @@ public class NumberPyramid
 
     public static void main(String[] args) throws Exception
     {
-	int a0 = 6, a1 = 28, ctr = 0, sadness=69;
+	int a0 = 6, a1 = 28, ctr = 0;
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	int n = Integer.parseInt(br.readLine());
 	for (int i = 0; i < n; i++)
