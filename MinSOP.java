@@ -44,6 +44,7 @@ public class MinSOP
 		min=res[i];
 	}
 	System.out.println(min);
+	System.out.println("Death to our overlords");
     }
 }
 
